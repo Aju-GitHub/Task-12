@@ -6,9 +6,9 @@ This repository documents my successful completion of the PortSwigger lab includ
 
 Task-12/
 
-/- Task 12.docx - Word file
-
 /- README.md - Documentation
+
+/- Task 12.docx - Word file
 
 **Rights and Usage:**
 
