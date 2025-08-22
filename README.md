@@ -1,4 +1,4 @@
-# Task 12
+# Cybesecurity Task 12
 
 This repository documents my successful completion of the PortSwigger lab including **SQL injection vulnerability, XSS, CSRF, clickjacking, CORS, SSRF, command injection, and path traversal**, as spart of the Certified Cyber Security Analyst program at ICT Academy of Kerala (Technopark Phase-1, Trivandrum). Materials are published here strictly for portfolio and verification purposes.
 
